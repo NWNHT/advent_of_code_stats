@@ -1,0 +1,8 @@
+.DS_Store
+
+plots/*
+
+daily_data/*
+
+yearly_data/*
+
